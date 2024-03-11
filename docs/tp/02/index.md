@@ -146,8 +146,8 @@ Prenons un exemple pour mieux comprendre: pour l’AFD donné avant, on a $P="ab
 - un AFD avec l'alphabet {'a', 'b'} le langage duquel est l'ensemble des chaînes avec le nombre de ’a’ multiple de 3
 - un AFD avec l'alphabet {'a', 'b'} le langage duquel est l'ensemble des chaînes avec un nombre paire de 'a' et un nombre impaire de 'b'
 
-3. Ouvrez le fichier `TP3/Ex3.kt` dans les fichiers du TP. Suivez les `TODO` pour completer l’implantation du AFD donné à l’exercice no. 1 en utilisant l'instruction `when()`.
+3. Ouvrez le fichier `TP2/Ex3/src/main/kotlin/Main.kt` dans les fichiers du TP. Suivez les `TODO` pour completer l’implantation du AFD donné à l’exercice no. 1 en utilisant l'instruction `when()`.
 
-4. Ouvrez le fichier `TP3/Ex4.kt` dans les fichiers du TP. Remplissez la classe `DFA.kt` dans les fichiers du TP en suivant les `TODO`. Utilisez l'implantation obtenue pour un automate qui cherche le modèle "aabab". Affichez les positions des occurences du modèle dans la chaîne "aaababaabaababaab" 
+4. Ouvrez le dossier `TP3/Ex4/src/main/kotlin` dans les fichiers du TP. Remplissez la classe `DFA.kt` dans les fichiers du TP en suivant les `TODO`. Utilisez l'implantation obtenue pour un automate qui cherche le modèle "aabab". Affichez les positions des occurences du modèle dans la chaîne "aaababaabaababaab" 
 
 5. (Bonus) Implantez en Kotlin le dernier automate de l'exercice no. 2.
